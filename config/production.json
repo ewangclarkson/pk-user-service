@@ -1,0 +1,13 @@
+{
+  "name": "SuperApp - Package Service: production",
+
+  "db": {
+  },
+  "app": {
+    "host": "http://localhost",
+    "port": 8003
+  },
+  "jwt": {
+    "expiresIn": "1h"
+  }
+}
